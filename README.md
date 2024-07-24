@@ -13,9 +13,9 @@ A Microsoft Excel project featuring an interactive dashboard that examines, anal
 - [Data Source](https://github.com/DannyAlao/Global-Video-Game-Sales-Analysis-Project?tab=readme-ov-file#data-source)
 - [Data Processing and Modification](https://github.com/DannyAlao/Global-Video-Game-Sales-Analysis-Project?tab=readme-ov-file#data-processing-and-modification)
 - [Data Analysis and Insights](https://github.com/DannyAlao/Global-Video-Game-Sales-Analysis-Project?tab=readme-ov-file#data-analysis-and-insights)
-- Data Visualization
-- Recommendations
-- Conclusion
+- [Data Visualization](https://github.com/DannyAlao/Global-Video-Game-Sales-Analysis-Project#data-visualization)
+- [Recommendations](https://github.com/DannyAlao/Global-Video-Game-Sales-Analysis-Project#recommendations)
+- [Conclusion](https://github.com/DannyAlao/Global-Video-Game-Sales-Analysis-Project#conclusion)
 
 ## Project Overview
 This is an analytical undertaking that provides an in-depth, holistic and concise insights on the global video-game ecosystem from a comprehensive dataset exploring sales, industry’s growth trends, regional performance of game titles overtime from North America, Japan, the EU, Africa, and the rest of the world for thirty-six thousand, seven hundred and fourteen (36,714) unique video game titles released from 1971-2024, including information like developers, publishers, critic's score, genres, consoles, and more. Using Microsoft Excel as a tool for analysis and visualization, insights and recommendations from this analysis would provide stakeholders and industry experts with relevant knowledge and requisite information on the dynamics of the video game industry with the aim to enhance data-driven and strategic decision-making for both economic and social benefits of the global video game ecosystem.
