@@ -221,7 +221,7 @@ This data visualization was created using Microsoft Excel, specifically utilizin
 
 ![](global-video-game-sales-dashboard-1.png)
 
-You can also interact with the report [here](Global-Video-Game-Sales-Analysis-Project.xlsx)
+You can also interact with the dashboard [here](Global-Video-Game-Sales-Analysis-Project.xlsx)
 
 ## Recommendations
 
