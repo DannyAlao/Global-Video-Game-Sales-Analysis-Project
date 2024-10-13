@@ -1,7 +1,7 @@
 # Global Video Game Sales Analysis
 
 ![](Global-Video-Game-Sales-Analysis-Image.jpg)
-
+----
 ## Introduction
 A Microsoft Excel project featuring an interactive dashboard that examines, analyzes, and visualizes the sales performance and growth trends of game titles in the global video game industry. The project provides intelligent insights into various aspects of video game sales, including regional performance, console distribution, and genre popularity, to enhance game development and strategic sales decision-making.
 
@@ -262,7 +262,7 @@ The analysis delves into key information about the overall sales and dynamic com
 
 Thank you for taking the time to read through this.
 
-I am a budding Data Analyst with a passion for learning and growth. I am seeking an internship opportunity where I can apply my skills and take on challenging responsibilities to further my development and contribute to the organization's success by providing intelligent and actionable insights for better decision-making.
+I am a Data Analyst with a passion for learning and growth. I am seeking an internship opportunity where I can apply my skills and take on challenging responsibilities to further my development and contribute to the organization's success by providing intelligent and actionable insights for better decision-making.
 
 For questions, feedback, or collaboration opportunities, you can reach me via [alaomoradeyod@gmail.com](email) or [LinkedIn](www.linkedin.com/in/daniel-alao)
 
