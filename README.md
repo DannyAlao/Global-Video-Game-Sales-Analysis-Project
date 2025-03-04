@@ -1,4 +1,5 @@
 # Global Video Game Sales Analysis
+----------------------------------
 
 ![](Global-Video-Game-Sales-Analysis-Image.jpg)
 ----
